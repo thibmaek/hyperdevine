@@ -9,5 +9,9 @@
     "type": "git"
   },
   "author": "Thibault Maekelbergh",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "*.js",
+    "package.json",
+  ]
 }
