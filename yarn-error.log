@@ -1,0 +1,50 @@
+Arguments: 
+  /Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/bin/node /Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/bin/yarn publish
+
+PATH: 
+  /Users/thibaultmaekelbergh/.yarn/bin:/usr/local/sbin:/usr/local/opt/php55/bin:/Users/thibaultmaekelbergh/.rbenv/shims:/Users/thibaultmaekelbergh/.pyenv/shims:/Users/thibaultmaekelbergh/.rbenv/shims:/Users/thibaultmaekelbergh/.rbenv/bin:/Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/bin:/Users/thibaultmaekelbergh/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+
+Yarn version: 
+  0.16.1
+
+Node version: 
+  6.9.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "hyperdevine",
+    "version": "1.0.0",
+    "description": "A #devinehowest themed Hyper",
+    "keywords": ["hyperterm", "hyper", "devine", "devinebe", "devinehowest"],
+    "main": "index.js",
+    "repository": {
+      "url": "https://github.com/thibmaek/hyperdevine",
+      "type": "git"
+    },
+    "author": "Thibault Maekelbergh",
+    "license": "MIT",
+    "files": [
+      "*.js",
+      "package.json",
+    ]
+  }
+
+yarn manifest: 
+  No manifest
+
+bower manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /Users/thibaultmaekelbergh/Documents/Development/hyperdevine/package.json: Unexpected token ] in JSON at position 394
+      at Object.parse (native)
+      at /Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/lib/node_modules/yarn/lib/util/fs.js:271:57
+      at next (native)
+      at step (/Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+      at /Users/thibaultmaekelbergh/.nvm/versions/node/v6.9.0/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:28:20
