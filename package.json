@@ -1,0 +1,13 @@
+{
+  "name": "hyperdevine",
+  "version": "1.0.0",
+  "description": "A #devinehowest themed Hyper",
+  "keywords": ["hyperterm", "hyper", "devine", "devinebe", "devinehowest"],
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/thibmaek/hyperdevine",
+    "type": "git"
+  },
+  "author": "Thibault Maekelbergh",
+  "license": "MIT"
+}
