@@ -1,5 +1,5 @@
 # hyperdevine
-Turns [Hyper.app](github.com/zeit/hyper) `#2cfffe` (aka [#devinehowest](https://twitter.com/hashtag/devinehowest) blue)
+Turns [Hyper.app](https://github.com/zeit/hyper) `#2cfffe` (aka [#devinehowest](https://twitter.com/hashtag/devinehowest) blue)
 
 ![Screenshot](http://i.imgur.com/HzyqHsi.png)
 
